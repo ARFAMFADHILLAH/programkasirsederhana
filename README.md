@@ -32,7 +32,7 @@ Pengguna dapat memilih menu makanan dan minuman, memasukkan jumlah porsi/gelas, 
   ```text
 git clone https://github.com/ARFAMFADHILLAH/programkasirsederhana.git
 cd programkasirsederhana
-
+  ```
 
 4. Kompilasi program:
    javac programkasirsederhana.java
