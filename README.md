@@ -38,41 +38,42 @@ Pengguna dapat memilih menu makanan dan minuman, memasukkan jumlah porsi/gelas, 
 5. Jalankan program:
    java programkasirsederhana
 
-📋 Contoh Tampilan Program
+## 📋 Contoh Tampilan Program
 
+```text
 |=========================================|
-| PROGRAM KASIR SEDERHANA |
+|          PROGRAM KASIR SEDERHANA        |
 |=========================================|
-| PILIH MENU MAKANAN |
+|             PILIH MENU MAKANAN          |
 |=========================================|
-| 1. Nasi Goreng Rp 12.000 |
-| 2. Ayam Geprek Rp 10.000 |
-| 3. Ikan Bakar Rp 20.000 |
-| 4. Nasi Bakar Rp 15.000 |
-| 5. Cumi Goreng Rp 8.000 |
+| 1. Nasi Goreng          Rp 12.000       |
+| 2. Ayam Geprek          Rp 10.000       |
+| 3. Ikan Bakar           Rp 20.000       |
+| 4. Nasi Bakar           Rp 15.000       |
+| 5. Cumi Goreng          Rp 8.000        |
 |=========================================|
 Pilih makanan 1/2/3/4/5 : 1
 Berapa Porsi : 2
 
 |=========================================|
-| PILIH MENU MINUMAN |
+|             PILIH MENU MINUMAN          |
 |=========================================|
-| 1. Es Teh Susu Rp 5.000 |
-| 2. Es Coklat Rp 10.000 |
-| 3. Es Cappucino Rp 10.000 |
-| 4. Es Cincau Rp 5.000 |
-| 5. Jus Apel Rp 10.000 |
+| 1. Es Teh Susu          Rp 5.000        |
+| 2. Es Coklat            Rp 10.000       |
+| 3. Es Cappucino         Rp 10.000       |
+| 4. Es Cincau            Rp 5.000        |
+| 5. Jus Apel             Rp 10.000       |
 |=========================================|
 Pilih minuman 1/2/3/4/5 : 2
 Berapa Gelas : 1
 
 |=========================================|
-| DAFTAR PEMBELIAN |
+|             DAFTAR PEMBELIAN            |
 |=========================================|
-| Makanan : Nasi Goreng
+| Makanan      : Nasi Goreng
 | Jumlah Porsi : 2
-| Minuman : Es Coklat
+| Minuman      : Es Coklat
 | Jumlah Gelas : 1
 |=========================================|
-Total Harga : Rp 34.000
+ Total Harga   : Rp 34.000
 |=========================================|
