@@ -29,6 +29,7 @@ Pengguna dapat memilih menu makanan dan minuman, memasukkan jumlah porsi/gelas, 
    java -version
 
 2. Clone repositori ini (atau unduh file .java-nya):
+   ```Text
   git clone https://github.com/ARFAMFADHILLAH/programkasirsederhana.git
   cd programkasirsederhana
 
