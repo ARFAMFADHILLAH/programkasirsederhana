@@ -34,11 +34,15 @@ git clone https://github.com/ARFAMFADHILLAH/programkasirsederhana.git
 cd programkasirsederhana
   ```
 
-4. Kompilasi program:
+3. Kompilasi program:
+   ```text
    javac programkasirsederhana.java
+   ```
 
-5. Jalankan program:
+4. Jalankan program:
+   ```
    java programkasirsederhana
+   ```
 
 ## 📋 Contoh Tampilan Program
 
